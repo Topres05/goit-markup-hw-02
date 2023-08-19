@@ -13,6 +13,7 @@ button {
 body {
     font-family: Roboto, sans-serif;
     color: #2E2F42;
+    background: var(--white, #FFF);
 }
 
 .logotype {
@@ -43,11 +44,29 @@ body {
     color: var(--ocean, #404BBF);
 }
 
+.contacts-list {
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0,02;
+    color: var(--slate, #434455);
+}
+
+.contacts-list:hover,
+.contacts-list:focus {
+    color: var(--ocean, #404BBF);
+}
+
 .main-title {
     font-size: 56px;
     font-weight: 700;
     line-height: 1,07;
     letter-spacing: 0,02em;
+    width: 496px;
+    color: var(--white, #FFF);
+    background: var(--navyblue, #2E2F42);
+    width: 496px;
     text-align: center;
 }
 
@@ -56,8 +75,15 @@ body {
     font-weight: 500;
     line-height: 1,5;
     letter-spacing: 0,04em;
-    background: var(--iris, #4D5AE5);
+    border-radius: 4px;
     color: var(--white, #FFF);
+    background: var(--iris, #4D5AE5);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+.order-service-btn:hover,
+.order-service-btn:focus {
+    background: var(--ocean, #404BBF);
 }
 
 .section-title {
@@ -81,6 +107,7 @@ body {
     line-height: 1,5;
     letter-spacing: 0,02em;
     color: var(--slate, #434455);
+    width: 264px;
 }
 
 .our-team-list-title {
@@ -111,4 +138,25 @@ body {
     line-height: 1,5;
     letter-spacing: 0,02em;
     color: var(--slate, #434455);
+}
+.footer-logotype-link{
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1,16;
+    letter-spacing: 0,03em;
+    text-transform: uppercase;
+    color: var(--iris, #4D5AE5);
+}
+
+.footer-text-color{
+    color: var(--cloud, #F4F4FD);
+}
+
+.footer-text {
+    font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0, 02em;
+    color: var(--cloud, #F4F4FD);
+    width: 264px;
 }
