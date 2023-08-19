@@ -50,7 +50,6 @@ body {
     font-size: 16px;
     line-height: 1,5;
     letter-spacing: 0,02;
-    color: var(--slate, #434455);
 }
 
 .contacts-list:hover,
@@ -89,6 +88,7 @@ body {
     letter-spacing: 0, 02em;
     text-transform: capitalize;
     text-align: center;
+    color: var(--navyblue, #2E2F42);
 }
 
 .our-quality-list-title {
@@ -96,14 +96,13 @@ body {
     font-weight: 500;
     line-height: 1,2;
     letter-spacing: 0,02em;
+    color: var(--navyblue, #2E2F42);
 }
 
 .our-qualityi-list-description {
     font-size: 16px;
     line-height: 1,5;
     letter-spacing: 0,02em;
-    color: var(--slate, #434455);
-    width: 264px;
 }
 
 .our-team-list-title {
@@ -112,13 +111,13 @@ body {
     line-height: 1,2;
     letter-spacing: 0,02em;
     text-align: center;
+    color: var(--navyblue, #2E2F42);
 }
 
 .our-team-list-text {
     font-size: 16px;
     line-height: 1,5;
     letter-spacing: 0,02em;
-    color: var(--slate, #434455);
     text-align: center;
 }
 
@@ -127,14 +126,15 @@ body {
     font-weight: 500;
     line-height: 1,2;
     letter-spacing: 0,02em;
+    color: var(--navyblue, #2E2F42);
 }
 
 .our-portfolio-list-text {
     font-size: 16px;
     line-height: 1,5;
     letter-spacing: 0,02em;
-    color: var(--slate, #434455);
 }
+
 .footer-logotype-link{
     font-family: Raleway, sans-serif;
     font-size: 18px;
