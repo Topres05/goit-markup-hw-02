@@ -12,8 +12,8 @@ button {
 
 body {
     font-family: Roboto, sans-serif;
-    color: #434455;
     background: var(--white, #FFF);
+    color: #434455;
 }
 
 .logotype {
