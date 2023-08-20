@@ -6,10 +6,6 @@
     list-style-type: none;
 }
 
-button {
-    cursor: pointer;
-}
-
 body {
     font-family: Roboto, sans-serif;
     background: var(--white, #FFF);
@@ -44,9 +40,12 @@ body {
     color: var(--ocean, #404BBF);
 }
 
+.contacts {
+    font-style: normal;
+}
+
 .contacts-list {
     font-family: Roboto;
-    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -58,22 +57,31 @@ body {
     color: var(--ocean, #404BBF);
 }
 
-.main-title {
-    font-size: 56px;
-    font-weight: 700;
-    line-height: 1,07;
-    letter-spacing: 0,02em;
-    color: var(--white, #FFF);
+.hero {
     background: var(--navyblue, #2E2F42);
 }
 
-.order-service-btn {
+.main-title {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    color: var(--white, #FFF);
+    text-align: center;
+}
+
+.hero-button {
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
-    line-height: 1,5;
-    letter-spacing: 0,04em;
-    color: var(--white, #FFF);
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     background: var(--iris, #4D5AE5);
+}
+
+.order-service-btn {
+    color: var(--white, #FFF);
+    cursor: pointer;
 }
 
 .order-service-btn:hover,
@@ -132,6 +140,10 @@ body {
     letter-spacing: 0,02em;
 }
 
+.page-footer {
+    background-color: #2e2f42;
+}
+
 .footer-logotype-link{
     font-family: Raleway, sans-serif;
     font-size: 18px;
@@ -150,6 +162,5 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    background-color: #2e2f42;
     color: var(--cloud, #F4F4FD);
 }
