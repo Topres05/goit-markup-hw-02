@@ -144,7 +144,7 @@ body {
     background-color: #2e2f42;
 }
 
-.footer-logotype{
+.footer-logotype {
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -154,7 +154,7 @@ body {
     color: var(--iris, #4D5AE5);
 }
 
-.footer-text-color{
+.footer-text-color {
     color: var(--cloud, #F4F4FD);
 }
 
