@@ -20,8 +20,8 @@ body {
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1,16;
-    letter-spacing: 0,03em;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--iris, #4D5AE5);
 }
@@ -34,7 +34,7 @@ body {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--navyblue, #2E2F42);
 }
@@ -48,8 +48,9 @@ body {
     font-family: Roboto;
     font-style: normal;
     font-size: 16px;
-    line-height: 1,5;
-    letter-spacing: 0,02;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--slate, #434455);
 }
 
 .contacts-list:hover,
@@ -135,8 +136,8 @@ body {
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1,16;
-    letter-spacing: 0,03em;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--iris, #4D5AE5);
 }
@@ -147,7 +148,8 @@ body {
 
 .footer-text {
     font-size: 16px;
-    line-height: 1,5;
-    letter-spacing: 0, 02em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    background-color: #2e2f42;
     color: var(--cloud, #F4F4FD);
 }
