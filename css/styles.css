@@ -6,6 +6,10 @@
     list-style-type: none;
 }
 
+button {
+    cursor: pointer;
+}
+
 body {
     font-family: Roboto, sans-serif;
     background: var(--white, #FFF);
@@ -70,19 +74,15 @@ body {
     text-align: center;
 }
 
-.hero-button {
+.order-service-btn {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     background: var(--iris, #4D5AE5);
-}
-
-.order-service-btn {
     color: var(--white, #FFF);
-    cursor: pointer;
-}
+    }
 
 .order-service-btn:hover,
 .order-service-btn:focus {
@@ -139,7 +139,7 @@ body {
 .our-portfolio-list-title {
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: var(--navyblue, #2E2F42);
