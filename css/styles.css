@@ -113,6 +113,24 @@ body {
     letter-spacing: 0.02em;
 }
 
+.our-team {
+    background-color: #F4F4FD
+}
+
+.our-team-section-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+    color: var(--navyblue, #2E2F42);
+    text-align: center;
+}
+
+.our-team-list-item {
+    background-color: #FFFFFF
+}
+
 .our-team-list-title {
     font-size: 20px;
     font-weight: 500;
