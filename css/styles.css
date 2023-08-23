@@ -23,7 +23,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--iris, #4D5AE5);
+    color: #4D5AE5;
 }
 
 .text-color {
@@ -36,12 +36,12 @@ body {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--navyblue, #2E2F42);
+    color: #2E2F42;
 }
 
 .menu-link:hover,
 .menu-link:focus {
-    color: var(--ocean, #404BBF);
+    color: #404BBF;
 }
 
 .contacts {
@@ -53,16 +53,16 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--slate, #434455);
+    color: #434455;
 }
 
 .contacts-list:hover,
 .contacts-list:focus {
-    color: var(--ocean, #404BBF);
+    color: #404BBF;
 }
 
 .hero {
-    background: var(--navyblue, #2E2F42);
+    background: #2E2F42;
 }
 
 .main-title {
@@ -70,7 +70,7 @@ body {
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    color: var(--white, #FFF);
+    color: #FFF;
     text-align: center;
 }
 
@@ -80,13 +80,13 @@ body {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    background: var(--iris, #4D5AE5);
-    color: var(--white, #FFF);
+    background: #4D5AE5;
+    color: #FFF;
     }
 
 .order-service-btn:hover,
 .order-service-btn:focus {
-    background: var(--ocean, #404BBF);
+    background: #404BBF;
 }
 
 .section-title {
@@ -95,7 +95,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: var(--navyblue, #2E2F42);
+    color: #2E2F42;
 
 }
 
@@ -104,7 +104,7 @@ body {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(--navyblue, #2E2F42);
+    color: #2E2F42;
 }
 
 .our-quality-list-description {
@@ -123,7 +123,7 @@ body {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: var(--navyblue, #2E2F42);
+    color: #2E2F42;
     text-align: center;
 }
 
@@ -136,7 +136,7 @@ body {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(--navyblue, #2E2F42);
+    color: #2E2F42;
 }
 
 .our-team-list-text {
@@ -151,7 +151,7 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: #2e2f42;
+    color: #2E2F42;
 }
 
 .our-portfolio-list-title {
@@ -160,7 +160,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
-    color: var(--navyblue, #2E2F42);
+    color: #2E2F42;
 
 }
 
@@ -171,7 +171,7 @@ body {
 }
 
 .page-footer {
-    background-color: #2e2f42;
+    background-color: #2E2F42;
 }
 
 .footer-logotype {
@@ -181,16 +181,16 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--iris, #4D5AE5);
+    color: #4D5AE5;
 }
 
 .footer-text-color {
-    color: var(--cloud, #F4F4FD);
+    color: #F4F4FD;
 }
 
 .footer-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--cloud, #F4F4FD);
+    color: #F4F4FD;
 }
