@@ -16,6 +16,8 @@ body {
     color: #434455;
 }
 
+/* PAGE HEADER */
+
 .logotype {
     font-family: Raleway, sans-serif;
     font-size: 18px;
@@ -61,6 +63,8 @@ body {
     color: #404BBF;
 }
 
+/* HERO SECTION */
+
 .hero {
     background: #2E2F42;
 }
@@ -89,6 +93,8 @@ body {
     background: #404BBF;
 }
 
+/* OUR QUALITY SECTION */
+
 .section-title {
     font-size: 36px;
     font-weight: 700;
@@ -112,6 +118,8 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+/* OUR TEAM SECTION */
 
 .our-team {
     background-color: #F4F4FD;
@@ -145,6 +153,8 @@ body {
     letter-spacing: 0.02em;
 }
 
+/* OUR PORTFOLIO SECTION */
+
 .our-portfolio-section-title {
     font-size: 36px;
     line-height: 1.11;
@@ -169,6 +179,8 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+/* PAGE FOOTER */
 
 .page-footer {
     background-color: #2E2F42;
